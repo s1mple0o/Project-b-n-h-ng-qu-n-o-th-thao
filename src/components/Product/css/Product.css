@@ -1,0 +1,10 @@
+.list-product {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.product-card-item {
+    width: 20%;
+    margin: 5px 10px 15px 35px;
+    box-shadow: 0px 0px 5px 0px rgb(87, 86, 86);
+}

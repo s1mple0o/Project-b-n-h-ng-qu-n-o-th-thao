@@ -1,0 +1,83 @@
+.header {
+    position: relative;
+    height: 130px;
+    background-color: #fff;
+}
+.top-header {
+    position: relative;
+}
+.top-info {
+    margin-left: 450px;
+    color: #395562;
+}
+.top-nav {
+    position: absolute;
+    right: 10px;
+    top: 0;
+}
+.top-nav-menu {
+    margin: 0 10px;
+    color: #395562;
+}
+.top-nav-menu:hover {
+    color: #ce5fad;
+}
+.left-header {
+    position: absolute;
+    left: 0;
+    width: auto;
+    height: 100%;
+}
+
+.logo-header {
+    height: 100%;
+}
+.shop-name {
+    font-weight: 600;
+    color: #395562;
+    font-size: 23px;
+}
+
+.search-header {
+    position: absolute;
+    left: 450px;
+    top: 45px;
+}
+
+.input-search-header {
+    width: 350px;
+    padding: 10px;
+    border: 3px solid #395562;
+    outline: none;
+}
+
+.btn-search-header {
+    background-color: #395562;
+    border: none;
+    font-size: 14px;
+    padding: 13px 25px;
+    color: #fff;
+}
+
+.btn-search-header:hover {
+    background-color: #ce5fad;
+}
+
+.cart-header {
+    position: absolute;
+    right: 10px;
+    top: 30px;
+    color: #395562;
+}
+
+.cart-icon-header {
+    font-size: 40px;
+}
+
+.cart-title-header {
+    font-weight: bold;
+}
+
+.cart-info-header {
+    margin-left: 5px;
+}

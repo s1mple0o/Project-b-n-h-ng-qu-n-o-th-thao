@@ -1,0 +1,44 @@
+.menu-bar {
+    width: 100%;
+    height: 60px;
+    background-color: #395562;
+    margin-bottom: 10px;
+    display: flex;
+    flex: wrap;
+}
+
+.menu-bar-contacts-container {
+    width: 30%;
+    height: 60px !important;
+    color: white;
+    border-right: 1px solid #fff;
+}
+
+.menu-bar-contact-text-info {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.menu-bar-items {
+    width: 70%;
+
+    cursor: pointer;
+}
+
+.menu-bar-items-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-bar-item {
+    padding: 20px;
+    font-weight: bolder;
+    color: white;
+    float: left;
+}
+
+.menu-bar-item:hover {
+    background-color: #fff;
+    color: #395562;
+}
